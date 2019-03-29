@@ -1,0 +1,59 @@
+222.22
+ 45.13
+104.36
+301.10
+Cindy Delaney
+600
+Rachel Hinton
+360
+Paulette Gannett
+900
+Gary Kohut
+10
+William Murray
+800
+Chris Pappas
+400
+DONE
+7
+John Smith
+125000
+Laura Wagner
+60000
+Jim Green
+29999
+Carol Weidner
+47000
+Rob Reed
+18500
+David Pyle
+59998
+Cara Cool
+76452
+A459
+C720
+Q099
+D001
+N444
+Q100
+K414
+S501
+S502
+M610
+V147
+V150
+T139
+T140
+T141
+O002
+P010
+P002
+P159
+J147
+F666
+F667
+K201
+K301
+O589
+G612
+O170

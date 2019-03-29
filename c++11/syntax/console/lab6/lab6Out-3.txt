@@ -1,0 +1,79 @@
+
+              Task 1 - Grocery points & Discount
+
+                                                                          Week #                                                             Weekly Total
+
+
+                                                                          Week #                                                             Weekly Total
+
+                                                                              	 1                                                                   120.00
+	 2                                                                    12.45
+	 3                                                                   109.14
+	 4                                                                   101.10
+
+                                                    The Total points awards are 150.00
+Gas Discount per gallon awards is 4.00
+
+
+
+                  Task 2 - Professional Ranking
+
+                   William and Chris University
+
+                                                              professor¡¯s name               Points                            Weekly Total
+
+Laura Smith                        2000                               Professor
+Rachel Wright                       675                               Professor
+Pat Perfect                         480                               Professor
+Guy Black                           300                                Lecturer
+Brandy Bills                        900                               Professor
+Chris Pounds                       1500                               Professor
+
+
+
+                        Task 3 - Exployee Pay
+
+                        C++ Programming Group
+
+name                    Tax Bracket      Gross Pay          Taxes       Net Pay
+
+Nancy Nice                 30000.00             15%        4500.00     25500.00
+Linda Vegas                99999.00             22%       21999.78     77999.22
+Michele Meyers            100000.00             22%       22000.00     78000.00
+
+
+
+                Task 4 - sports  stadium Seating
+
+                          BCC Sports Stadium
+
+Fan Count                    Ticket           Gate                   Seat Number
+
+1                              D176              4                         17
+2                              N412              2                         41
+3                              W007              3                         00
+4                              D999              4                         99
+5                              N362              2                         36
+6                              W104              3                         10
+7                              C781              3                         78
+8                              X192              4                         19
+9                              X303              4                         30
+10                             T121              4                         12
+11                             V204              2                         20
+12                             V231              2                         23
+13                             T240              4                         24
+14                             T201              4                         20
+15                             T202              4                         20
+16                             O113              3                         11
+17                             P121              4                         12
+18                             P113              4                         11
+19                             P230              4                         23
+20                             P230              4                         23
+
+                        Gate Number           Fan Count
+
+                                  1                   0
+                                  2                   4
+                                  3                   4
+                                  4                  12
+

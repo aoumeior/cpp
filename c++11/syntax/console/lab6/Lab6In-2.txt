@@ -1,0 +1,74 @@
+321.45
+405.36
+480.69
+301.10
+Barb Brown
+1000
+Rick Hill
+620
+Paul Smith
+999
+Gail McNeil
+100
+Billy Bell
+801
+Cara McCabe
+421
+Timmy Ball
+799
+Lisa Lucky
+600
+Alex Able
+201
+Dave Daley
+400
+DONE
+6
+Jill Jones
+12500
+Luke Skywalker
+300000
+Jason Bloomberg
+59999
+Ian Smith
+49500
+Rob Reed
+18500
+Dale Dell
+145000
+D929
+N320
+W099
+D001
+N999
+W100
+I919
+X201
+X202
+M010
+V193
+V120
+T139
+T190
+T191
+O002
+P010
+P002
+P129
+J193
+F000
+F003
+I201
+I301
+O289
+G012
+O130
+Y004
+O222
+O223
+L412
+R156
+G698
+G699
+G700
+M140
