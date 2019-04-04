@@ -10,3 +10,5 @@
 ### [MoveAssignable](./doc/MoveAssignable.md)
 
 ### [TriviallyCopyable](./doc/TriviallyCopyable.md)
+
+### [Exception Specifications](./doc/Exception Specifications.md)
